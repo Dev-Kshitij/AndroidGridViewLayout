@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Beard Styles 2016</string>
+    <string name="nav_item_attachment">Home</string>
+    <string name="nav_item_images">Instagram</string>
+    <string name="nav_item_credits">App Credits</string>
+    <string name="nav_sub_menu">Show us some Support ::</string>
+    <string name="nav_sub_menu_item01">Download Similar Apps</string>
+    <string name="nav_sub_menu_item02">Suggestion / Request</string>
+    <string name="credits">\n***** DEVELOPMENT TEAM ***** \n\n
+
+        Dev Group Name : Batty Devs\n
+        Senior Dev : Kshitij Singh\n
+        Contact : kshitijzxjava@gmail.com\n
+        Twitter : @kshitijjava\n
+        Website : <a href="http://www.battydevs.com">Battydevs.com</a>
+
+   </string>
+    <string name="banner_ad_unit_id">ca-app-pub-4876187285163663/7119323236</string>
+</resources>

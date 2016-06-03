@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "840902097455",
+    "firebase_url": "https://admob-app-id-5642590031.firebaseio.com",
+    "project_id": "admob-app-id-5642590031",
+    "storage_bucket": "admob-app-id-5642590031.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840902097455:android:ca584033db7c66a7",
+        "android_client_info": {
+          "package_name": "com.beardstyles.battydevs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "840902097455-rmhimtg0fl51j8jl8je4sj34sq894om3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzdA8i7bbnfp0koC8GbBxPON96zavaQOo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
